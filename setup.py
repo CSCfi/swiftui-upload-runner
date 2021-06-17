@@ -15,11 +15,11 @@ setuptools.setup(
     install_requires=[
         "aiohttp==3.7.4.post0",
         "requests==2.25.1",
-        "python-swiftclient==3.11.1",
+        "python-swiftclient==3.12.0",
         "keystoneauth1==4.3.1",
         "gunicorn>=20.0.1",
         "uvloop==0.15.2",
-        "certifi==2020.12.05",
+        "certifi==2021.5.30",
         "swift-browser-ui" "@ git+https://github.com/cscfi/swift-browser-ui.git",
     ],
     extras_require={

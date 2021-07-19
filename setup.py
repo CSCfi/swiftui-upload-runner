@@ -31,7 +31,7 @@ setuptools.setup(
             "flake8==3.9.2",
             "flake8-docstrings==1.6.0",
             "asynctest==0.13.0",
-            "black==21.6b0",
+            "black==21.7b0",
             "pytest-aiohttp==0.3.0",
         ],
     },

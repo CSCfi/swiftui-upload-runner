@@ -18,7 +18,7 @@ setuptools.setup(
         "python-swiftclient==3.12.0",
         "keystoneauth1==4.3.1",
         "gunicorn>=20.0.1",
-        "uvloop==0.15.2",
+        "uvloop==0.15.3",
         "certifi==2021.5.30",
         "swift-browser-ui" "@ git+https://github.com/cscfi/swift-browser-ui.git",
     ],
